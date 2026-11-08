@@ -40,10 +40,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Axel-3&show_icons=true&theme=tokyonight&hide_border=true&locale=es"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-3&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
-</p>
